@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+*{
+  font-family: 'Poppins', sans-serif;
+}
+body{
+  background: #FFFFFF;
+}
+.btn-login{
+  
+  background: #E76F51;
+  color: #FFFFFF;
+}
+.btn-design{
+  color: #FFFFFF;
+}
+.bike-zone{
+font-weight: 700;
+font-size: 2rem;
+font-weight: 700;
+
+}
+.carousel-bg{
+  background: rgba(231, 111, 81, 0.1);
+}
+.bike-heading{
+  font-weight: 600;
+}
+.bike-text{
+  color: #E76F51;
+  font-weight: 700;
+}
+.hz-line{
+  color: #E76F51;
+
+}
+.card-description{
+  color: #6C6C6C;
+}
+.happy-clients{
+  
+  color: #E76F51;
+}
+.filled,.filled1
+{
+  color: #E76F51;
+}
+
+.banker-name{
+  color: #23A6F0;
+}
+.client-heading{
+  font-weight:700;
+font-size: 3rem;
+}
+.questions{
+  color: #E76F51;
+}
+.para a{
+  text-decoration: none;
+}
+.text-part a{
+  margin-right: 1rem;
+  text-decoration: none;
+ color: black;
+}
